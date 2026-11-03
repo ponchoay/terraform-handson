@@ -1,0 +1,14 @@
+.DS_Store
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+tfplan
+crash.log
+
+# ツールが生成した作業ファイル
+.yomiyasu/
+fakehome/
+xdgcfg/
